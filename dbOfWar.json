@@ -1,0 +1,80 @@
+{"artOfWar":
+  [
+      {
+      "chapter":1,
+      "title":"Laying Plans",
+      "strategies":[
+        {
+          "lineNumber":1,
+          "text":"The art of war is of vital importance to the State."
+        },
+        {
+          "lineNumber":2,
+          "text":"It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected."
+        },
+        {
+          "lineNumber":3,
+          "text":"The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations,when seeking to determine the conditions obtaining in the field."
+        },
+        {
+          "lineNumber":4,
+          "text":"These are: (1) The Moral Law; (2) Heaven; (3) Earth; (4) The Commander; (5) Method and discipline."
+        },
+        {
+          "lineNumber":5,
+          "text":"The MORAL LAW causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives, undismayed by any danger"
+        },
+        {
+          "lineNumber":7,
+          "text":"HEAVEN signifies night and day, cold and heat, times and seasons"
+        }
+        
+      ]
+    },
+    {
+      "chapter":2,
+      "title":"Waging War",
+      "content":[
+        {
+          "lineNumber":1,
+          "text":"Sun Tzu said: In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers,."
+        },
+        {
+          "lineNumber":2,
+          "text":"When you engage in actual fighting, if victory is long in coming, then men's weapons will grow dull and their ardor will be damped. If you lay siege to a town, you will exhaust your strength"
+        },
+        {
+          "lineNumber":3,
+          "text":"Again, if the campaign is protracted, the resources of the State will not be equal to the strain"
+        },
+        {
+          "lineNumber":4,
+          "text":"Now, when your weapons are dulled, your ardor damped, your strength exhausted and your treasure spent, other chieftains will spring up to take advantage of your extremity. Then no man, however wise, will be able to avert the consequences that must ensue"
+        },
+        {
+          "lineNumber":5,
+          "text":"Thus, though we have heard of stupid haste in war, cleverness has never been seen associated with long delays"
+        },
+        {
+          "lineNumber":7,
+          "text":"It is only one who is thoroughly acquainted with the evils of war that can thoroughly understand the profitable way of carrying it on."
+        },
+        {
+          "lineNumber":8,
+          "text":"The skillful soldier does not raise a second levy, neither are his supply-wagons loaded more than twice"
+        }
+        
+      ]
+    },
+    {
+      "chapter":3,
+      "title":"Attack by Stratagem",
+      "content":[
+        {
+          "lineNumber":1,
+          "text":"Sun Tzu said: In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good. So, too, it is better to recapture an army entire than to destroy it, to capture a regiment, a detachment or a company entire than to destroy them."
+        }        
+      ]
+    }
+  ]
+}
